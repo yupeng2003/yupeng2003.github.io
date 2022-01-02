@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yupeng2003.github.io</id>
-    <title>yupeng&apos;blog</title>
-    <updated>2022-01-02T03:31:36.242Z</updated>
+    <title>yupeng&apos;s blog</title>
+    <updated>2022-01-02T03:51:54.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yupeng2003.github.io"/>
     <link rel="self" href="https://yupeng2003.github.io/atom.xml"/>
     <subtitle>yupeng&apos;s blog</subtitle>
     <logo>https://yupeng2003.github.io/images/avatar.png</logo>
     <icon>https://yupeng2003.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, yupeng&apos;blog</rights>
+    <rights>All rights reserved 2022, yupeng&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[2022新年快乐]]></title>
         <id>https://yupeng2003.github.io/post/markdowm/</id>
