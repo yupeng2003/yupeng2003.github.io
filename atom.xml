@@ -2,37 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yupeng2003.github.io</id>
     <title>yupeng&apos;s blog</title>
-    <updated>2022-01-02T05:55:24.999Z</updated>
+    <updated>2022-01-06T09:13:26.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yupeng2003.github.io"/>
     <link rel="self" href="https://yupeng2003.github.io/atom.xml"/>
-    <subtitle>yupeng&apos;s blog</subtitle>
     <logo>https://yupeng2003.github.io/images/avatar.png</logo>
     <icon>https://yupeng2003.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, yupeng&apos;s blog</rights>
     <entry>
+        <title type="html"><![CDATA[2022.1.6小记]]></title>
+        <id>https://yupeng2003.github.io/202216-xiao-ji/</id>
+        <link href="https://yupeng2003.github.io/202216-xiao-ji/">
+        </link>
+        <updated>2022-01-06T08:56:43.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022新年快乐]]></title>
-        <id>https://yupeng2003.github.io/post/markdowm/</id>
-        <link href="https://yupeng2003.github.io/post/markdowm/">
+        <id>https://yupeng2003.github.io/markdowm/</id>
+        <link href="https://yupeng2003.github.io/markdowm/">
         </link>
         <updated>2022-01-01T06:25:46.000Z</updated>
         <summary type="html"><![CDATA[<p>#<strong>2022第一天的记录</strong>#</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>#<strong>2022第一天的记录</strong>#</p>
-<!-- more -->
-<pre><code>终于，在新年的第一天搭建好了自己的博客，真是历经周折，希望以后能够好好利用这个平台记录一些东西。  
-</code></pre>
-<!-- more -->
-<h1 id="回顾2021">回顾2021🌈</h1>
-<h3 id="现在回顾自己过去的一年似乎也只是那么的平平淡淡没有什么做得特别好的但是又觉得自己也是有一些成长和收获的">现在回顾自己过去的一年，似乎也只是那么的平平淡淡，没有什么做得特别好的，但是又觉得自己也是有一些成长和收获的。</h3>
-<h3 id="首先在个人生活上也逐渐有在思考自己想要什么逐渐知道自己还是应该还成为一个独立的个体不要太受制于他人的影响得要有自己的一些想法不想着别人与自己的关系有多好-其次学习上总体来说也还算可以但还是不够认真努力虽然也拿到了一些奖但后边还是得有更加清晰的规划知道自己要做什么想做什么当然也是包括学习之外的">首先，在个人生活上，也逐渐有在思考自己想要什么，逐渐知道自己还是应该还成为一个独立的个体，不要太受制于他人的影响，得要有自己的一些想法，不想着别人与自己的关系有多好。其次，学习上，总体来说也还算可以，但还是不够认真努力，虽然也拿到了一些奖，但后边还是得有更加清晰的规划，知道自己要做什么，想做什么，当然也是包括学习之外的。</h3>
-<h1 id="展望2022">展望2022🌈</h1>
-<h3 id="2022已然来到时间不会等人在新的一年里必须得要有好的规划实实在在的完成一些事情达成一些目标-当自己明年再来回顾今年的时候不至于会觉得什么也没干">2022已然来到，时间不会等人，在新的一年里必须得要有好的规划，实实在在的完成一些事情，达成一些目标。当自己明年再来回顾今年的时候，不至于会觉得什么也没干。</h3>
-<h3 id="2022年生活上继续保持发展独立自主的人格有自己的思考在学习别人的同时加以判断看是否适合自己-总体上得发展良好的社交关系不要过于的依赖别人本科期间在情感上也不要有其他的想法顺其自然做好自己-学习上应该明确几点课内的必须弄懂课外阅读一些书籍如数学哲学这些借着百度菁英班的机会还得提高自己python的水平机器学习的水平还要在其他一些比赛中拿些奖回来要是有机会能够学习一门乐器就好了可以借楼下钢琴学学或者其他之类的还有一个很重要的就是必须得要提高自己的英语水平了首先是要记好单词然后才在其他模块提升总之2022年是要做出一些东西来的">2022年，生活上，继续保持发展独立自主的人格，有自己的思考，在学习别人的同时加以判断，看是否适合自己。总体上得发展良好的社交关系，不要过于的依赖别人，本科期间在情感上也不要有其他的想法，顺其自然，做好自己。学习上，应该明确几点，课内的必须弄懂，课外阅读一些书籍如数学哲学这些，借着百度菁英班的机会还得提高自己python的水平，机器学习的水平，还要在其他一些比赛中拿些奖回来，要是有机会能够学习一门乐器就好了，可以借楼下钢琴学学或者其他之类的，还有一个很重要的就是必须得要提高自己的英语水平了，首先是要记好单词，然后才在其他模块提升，总之2022年是要做出一些东西来的。</h3>
-<h1 id=""></h1>
-<h1 id="-2"></h1>
-<h2 id="暂时就说这些了希望在2022年能够顺利get一些新成就">暂时就说这些了，希望在2022年能够顺利，get一些新成就！</h2>
-<h2 id="往着不可谏来着犹可追加油吧新的一年"><strong>往着不可谏，来着犹可追，加油吧，新的一年！</strong></h2>
 ]]></content>
     </entry>
 </feed>
