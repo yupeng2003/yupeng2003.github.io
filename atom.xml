@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yupeng2003.github.io</id>
     <title>yupeng&apos;s blog</title>
-    <updated>2022-01-08T12:43:35.788Z</updated>
+    <updated>2022-01-08T12:47:35.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yupeng2003.github.io"/>
     <link rel="self" href="https://yupeng2003.github.io/atom.xml"/>
+    <subtitle>my blog </subtitle>
     <logo>https://yupeng2003.github.io/images/avatar.png</logo>
     <icon>https://yupeng2003.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, yupeng&apos;s blog</rights>
