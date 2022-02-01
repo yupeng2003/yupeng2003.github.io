@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>生活记录 | yupeng&#39;s blog</title>
+<title>新春快乐！ | yupeng&#39;s blog</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,22 @@
 <link rel="stylesheet" href="https://yupeng2003.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="my blog ">
+    <meta name="description" content="农历新年第一天，新的一年调整状态，继续加油努力！
+开学马上考试，后期在家要做好复习，调整状态。也要开始学python，为百度菁英班准备，为蓝桥杯准备。竞赛方面也要同时兼顾，机创，cup，美赛等等，不要拖拉，及时开始。
+感情方面还是应该这样一..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -88,44 +97,39 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 生活记录</h2>
-          
-            <article class="post-item">
-              <div class="left">
+          <div class="post-detail">
+            <h2 class="post-title">新春快乐！</h2>
+            <div class="post-date">2022-02-01</div>
+            
+            <div class="post-content" v-pre>
+              <p>农历新年第一天，新的一年调整状态，继续加油努力！</p>
+<p>开学马上考试，后期在家要做好复习，调整状态。也要开始学python，为百度菁英班准备，为蓝桥杯准备。竞赛方面也要同时兼顾，机创，cup，美赛等等，不要拖拉，及时开始。</p>
+<p>感情方面还是应该这样一个原则，本科期间不主动寻求，顺其自然，对于她合理考虑，有机会多了解了解。</p>
+<p>后面日子非常紧张，要静下心来学习研究，心无旁骛，独立思考，做好自己！<br>
+加油！！！</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
                 <a href="https://yupeng2003.github.io/202216-xiao-ji/">
-                  <h2 class="post-title">2022.1.6小记</h2>
+                  <h3 class="post-title">
+                    2022.1.6小记
+                  </h3>
                 </a>
-                <div class="post-date">
-                  2022-01-06
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
               </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://yupeng2003.github.io/markdowm/">
-                  <h2 class="post-title">2022新年快乐</h2>
-                </a>
-                <div class="post-date">
-                  2022-01-01
-                </div>
-                <div class="post-abstract">
-                  <p>#<strong>2022第一天的记录</strong>#</p>
+            
 
-                </div>
-              </div>
+            
               
-            </article>
-          
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
 
-          <div class="pagination-container">
-  
-  
-</div>
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -146,6 +150,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '92c8264e41e50a2247b6',
+        clientSecret: 'd9f3afc695bed5494a55877e62013186a2042810',
+        repo: 'yupeng2003.github.io',
+        owner: 'yupeng2003',
+        admin: ['yupeng2003'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
