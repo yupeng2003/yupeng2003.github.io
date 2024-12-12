@@ -56,6 +56,31 @@
             });
         });
     });
+    document.addEventListener('DOMContentLoaded', function () {
+        const weixinPopup = document.querySelector('.weixin-popup img');
+        if (weixinPopup) {
+            const updateImageSize = () => {
+                const screenWidth = window.innerWidth;
+                if (screenWidth <= 480) {
+                    weixinPopup.style.maxWidth = '100px';
+                    weixinPopup.style.maxHeight = '100px';
+                } else if (screenWidth <= 768) {
+                    weixinPopup.style.maxWidth = '150px';
+                    weixinPopup.style.maxHeight = '150px';
+                } else {
+                    weixinPopup.style.maxWidth = '300px';
+                    weixinPopup.style.maxHeight = '300px';
+                }
+            };
+    
+            // Initial size update
+            updateImageSize();
+    
+            // Update size on window resize
+            window.addEventListener('resize', updateImageSize);
+        }
+    });
+    
     
     
 }());
