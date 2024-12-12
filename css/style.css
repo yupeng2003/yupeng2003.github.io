@@ -11687,8 +11687,8 @@ figure.highlight.foldable div.level-left {
   left: 50%;
   transform: translateX(-50%);
   background-color: #fff;
-  border: 0px solid #ccc;
-  padding: 10px;
+  border: 1px solid #ccc;
+  padding: 0px;
   border-radius: 8px;
   z-index: 1000;
 }
