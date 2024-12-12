@@ -11694,8 +11694,20 @@ figure.highlight.foldable div.level-left {
   z-index: 1000;
 }
 .weixin-popup img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 200px;
+  max-height: 200px;
+}
+@media (max-width: 768px) {
+  .weixin-popup img {
+    max-width: 150px; /* 屏幕宽度 ≤ 768px 时的最大宽度 */
+    max-height: 150px; /* 屏幕宽度 ≤ 768px 时的最大高度 */
+  }
+}
+@media (max-width: 480px) {
+  .weixin-popup img {
+    max-width: 100px; /* 屏幕宽度 ≤ 480px 时的最大宽度 */
+    max-height: 100px; /* 屏幕宽度 ≤ 480px 时的最大高度 */
+  }
 }
 .weixin-link:hover .weixin-popup {
   display: block;
