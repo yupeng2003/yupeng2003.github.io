@@ -11681,7 +11681,7 @@ figure.highlight.foldable div.level-left {
   position: relative;
 }
 .weixin-popup {
-  display: none;
+  display: none; /* 默认隐藏 */
   position: absolute;
   top: 40px;
   left: 50%;
