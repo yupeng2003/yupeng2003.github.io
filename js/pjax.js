@@ -49,5 +49,13 @@
             });
         }
     });
+    document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('.no-pjax').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); // 阻止默认行为
+            });
+        });
+    });
+    
     
 }());
