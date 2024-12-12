@@ -35,4 +35,19 @@
     // })
 
     document.addEventListener('DOMContentLoaded', () => initPjax());
+    document.addEventListener('DOMContentLoaded', function () {
+        const weixinLink = document.querySelector('.weixin-link');
+        const weixinPopup = document.querySelector('.weixin-popup');
+    
+        if (weixinLink && weixinPopup) {
+            weixinLink.addEventListener('mouseover', function () {
+                weixinPopup.style.display = 'block';
+            });
+    
+            weixinLink.addEventListener('mouseout', function () {
+                weixinPopup.style.display = 'none';
+            });
+        }
+    });
+    
 }());
