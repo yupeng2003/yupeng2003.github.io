@@ -11677,3 +11677,26 @@ figure.highlight.foldable div.level-left {
     padding: 1.5rem 1rem;
   }
 }
+.weixin-link {
+  position: relative;
+}
+.weixin-popup {
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  z-index: 1000;
+}
+.weixin-popup img {
+  max-width: 150px;
+  max-height: 150px;
+}
+.weixin-link:hover .weixin-popup {
+  display: block;
+}
